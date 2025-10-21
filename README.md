@@ -48,3 +48,4 @@ Thus, 3D model is created from orthographic projection.
 
 
 
+[my fusion 1 Drawing.pdf](https://github.com/user-attachments/files/23027229/my.fusion.1.Drawing.pdf)
